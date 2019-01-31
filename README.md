@@ -1,3 +1,3 @@
 # bootstrap
-Fight breast cancer website created using bootstrap
+Fighting breast cancer website created using bootstrap
 
